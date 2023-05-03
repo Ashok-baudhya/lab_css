@@ -1,0 +1,65 @@
+
+body{
+    background: #595547;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: skyblue;
+    font-size: 40px;
+}
+
+h5{
+    color: skyblue;
+   font-size: 18px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+.ullist{
+    color: aliceblue;
+}
+
+a{
+    color: red;
+    font-weight: bolder;
+}
+
+a:hover{
+    color: black;
+}
+
+a:active{
+    color: blue;
+}
+
+
+li{
+    font-size: 18px;
+}
+
+.imgsrc{
+    display: flex;
+}
+
+img{
+    width: 200px;
+    
+}
+.ptitle{
+    margin-top: 250px;
+
+    margin-bottom: 0;
+}
+
+span{
+    color: yellow;
+}
+
+.ollist{
+    color: white;
+}
